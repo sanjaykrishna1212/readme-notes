@@ -146,3 +146,11 @@ ESCAPE CHARACTER
 \. dot
 
 \! exclamation mark
+
+
+
+# Note
+
+_**For Preview in vs code**_
+
+`Ctrl+Shift+v`
